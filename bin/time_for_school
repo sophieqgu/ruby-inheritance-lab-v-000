@@ -23,5 +23,5 @@ jim = Student.new
 jim.first_name = "Jim"
 jim.last_name = "Auditor"
 
-jin.learn(some_knowledge)
+jim.learn(some_knowledge)
 
